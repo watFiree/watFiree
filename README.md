@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
 <h3 align="center">A passionate developer and student.</h3>
 
-- 🔭 I’m currently working on [mq](https://github.com/watFiree/mq)
+- 🔭 I’m currently working on [nestjs-basket](https://github.com/watFiree/nestjs-basket)
+- 📖 I'm currently mastering [Nest.js](https://nestjs.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

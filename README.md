@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
 <h3 align="center">A passionate developer and student.</h3>
 
-- 🔭 I’m currently working on [nestjs-basket](https://github.com/watFiree/nestjs-basket)
-- 📖 I'm currently mastering [Nest.js](https://nestjs.com/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/karol-piotrowicz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karol-piotrowicz/" height="30" width="40" /></a>
